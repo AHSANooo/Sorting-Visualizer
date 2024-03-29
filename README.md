@@ -4,7 +4,10 @@ Welcome to the Sorting Visualizer project! This project is built using SFML (Sim
 
 ## Demo Video
 
-Check out the demo video of the project in action [here](https://youtu.be/rwT5jgM-HlQ).
+Watch the project in action:
+
+[![Sorting Visualizer Demo](https://img.youtube.com/vi/rwT5jgM-HlQ/0.jpg)](https://youtu.be/rwT5jgM-HlQ)
+
 
 ## GitHub Repository
 
