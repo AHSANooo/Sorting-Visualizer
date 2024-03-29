@@ -59,5 +59,8 @@ Contributions are welcome! Feel free to open issues, suggest improvements, or ad
 
 Watch the project in action:
 
-[![Sorting Visualizer Demo](https://img.youtube.com/vi/rwT5jgM-HlQ/0.jpg)](https://youtu.be/rwT5jgM-HlQ)
+<video width="640" height="360" controls>
+  <source src="https://youtu.be/rwT5jgM-HlQ" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
