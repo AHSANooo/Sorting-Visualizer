@@ -2,12 +2,6 @@
 
 Welcome to the Sorting Visualizer project! This project is built using SFML (Simple and Fast Multimedia Library) and provides a visual representation of various sorting algorithms like Quick Sort, Merge Sort, and Heap Sort.
 
-## Demo Video
-
-Watch the project in action:
-
-[![Sorting Visualizer Demo](https://img.youtube.com/vi/rwT5jgM-HlQ/0.jpg)](https://youtu.be/rwT5jgM-HlQ)
-
 
 ## GitHub Repository
 
@@ -60,3 +54,10 @@ This Sorting Visualizer project aims to provide a hands-on learning experience o
 ## Contributions
 
 Contributions are welcome! Feel free to open issues, suggest improvements, or add new features to the project. Let's make sorting algorithms more accessible and fun to learn!
+
+## Demo Video
+
+Watch the project in action:
+
+[![Sorting Visualizer Demo](https://img.youtube.com/vi/rwT5jgM-HlQ/0.jpg)](https://youtu.be/rwT5jgM-HlQ)
+
